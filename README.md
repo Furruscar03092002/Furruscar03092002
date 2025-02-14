@@ -43,7 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Furruscar03092002/Furruscar03092002/output/snake.svg" alt="Snake animation" />
 
 ###
 
